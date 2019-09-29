@@ -1,7 +1,14 @@
 body{
     font-size: 18px;
+    color: #5C4A74;
+    background-color:#F3B05A;
 }
 
 h1,h2{
     font-weight: bold;
+    color: #A3586D;
+}
+
+p, h1, h2{
+  width: 50%;  
 }
