@@ -10,7 +10,7 @@ h1,h2{
 }
 
 p, h1, h2{
-  width: 50%;
+  width: 500px;
   border: solid;
     background-color:#F3B05A;
     border-radius: 10px;
